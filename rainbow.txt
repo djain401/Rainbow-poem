@@ -1,0 +1,10 @@
+Rainbow
+
+Violet
+Indigo
+Blue
+Orange
+Purple
+
+These are the colors in a rainbow.
+
