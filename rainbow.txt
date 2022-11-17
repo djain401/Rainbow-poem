@@ -1,4 +1,4 @@
-Rainbow
+Rainbow and stars
 
 Violet
 Indigo
@@ -9,4 +9,9 @@ Orange
 Purple
 
 These are the colors in a rainbow.
+
+Twinkle Twinkle little star
+
+
+
 
